@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marwa\\OneDrive\\Bureau\\WindowsFormsAppGM23\\WindowsFormsAppGM23\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA269C47-C167-405D-AE8F-5D75AFA8AD55}|WindowsFormsAppGM23\\WindowsFormsAppGM23.csproj|c:\\users\\marwa\\onedrive\\bureau\\windowsformsappgm23\\windowsformsappgm23\\windowsformsappgm23\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FA269C47-C167-405D-AE8F-5D75AFA8AD55}|WindowsFormsAppGM23\\WindowsFormsAppGM23.csproj|solutionrelative:windowsformsappgm23\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA269C47-C167-405D-AE8F-5D75AFA8AD55}|WindowsFormsAppGM23\\WindowsFormsAppGM23.csproj|C:\\Users\\marwa\\OneDrive\\Bureau\\WindowsFormsAppGM23\\WindowsFormsAppGM23\\WindowsFormsAppGM23\\FormClient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FA269C47-C167-405D-AE8F-5D75AFA8AD55}|WindowsFormsAppGM23\\WindowsFormsAppGM23.csproj|solutionrelative:WindowsFormsAppGM23\\FormClient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA269C47-C167-405D-AE8F-5D75AFA8AD55}|WindowsFormsAppGM23\\WindowsFormsAppGM23.csproj|c:\\users\\marwa\\onedrive\\bureau\\windowsformsappgm23\\windowsformsappgm23\\windowsformsappgm23\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA269C47-C167-405D-AE8F-5D75AFA8AD55}|WindowsFormsAppGM23\\WindowsFormsAppGM23.csproj|solutionrelative:windowsformsappgm23\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA269C47-C167-405D-AE8F-5D75AFA8AD55}|WindowsFormsAppGM23\\WindowsFormsAppGM23.csproj|c:\\users\\marwa\\onedrive\\bureau\\windowsformsappgm23\\windowsformsappgm23\\windowsformsappgm23\\formclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA269C47-C167-405D-AE8F-5D75AFA8AD55}|WindowsFormsAppGM23\\WindowsFormsAppGM23.csproj|solutionrelative:windowsformsappgm23\\formclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA269C47-C167-405D-AE8F-5D75AFA8AD55}|WindowsFormsAppGM23\\WindowsFormsAppGM23.csproj|C:\\Users\\marwa\\OneDrive\\Bureau\\WindowsFormsAppGM23\\WindowsFormsAppGM23\\windowsformsappgm23\\formmateriel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FA269C47-C167-405D-AE8F-5D75AFA8AD55}|WindowsFormsAppGM23\\WindowsFormsAppGM23.csproj|solutionrelative:windowsformsappgm23\\formmateriel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA269C47-C167-405D-AE8F-5D75AFA8AD55}|WindowsFormsAppGM23\\WindowsFormsAppGM23.csproj|c:\\users\\marwa\\onedrive\\bureau\\windowsformsappgm23\\windowsformsappgm23\\windowsformsappgm23\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA269C47-C167-405D-AE8F-5D75AFA8AD55}|WindowsFormsAppGM23\\WindowsFormsAppGM23.csproj|solutionrelative:windowsformsappgm23\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA269C47-C167-405D-AE8F-5D75AFA8AD55}|WindowsFormsAppGM23\\WindowsFormsAppGM23.csproj|c:\\users\\marwa\\onedrive\\bureau\\windowsformsappgm23\\windowsformsappgm23\\windowsformsappgm23\\formmateriel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA269C47-C167-405D-AE8F-5D75AFA8AD55}|WindowsFormsAppGM23\\WindowsFormsAppGM23.csproj|solutionrelative:windowsformsappgm23\\formmateriel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\marwa\\OneDrive\\Bureau\\WindowsFormsAppGM23\\WindowsFormsAppGM23\\WindowsFormsAppGM23\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsAppGM23\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\marwa\\OneDrive\\Bureau\\WindowsFormsAppGM23\\WindowsFormsAppGM23\\WindowsFormsAppGM23\\Form1.Designer.cs",
+              "RelativeToolTip": "WindowsFormsAppGM23\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T00:44:46.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormClient.cs",
+              "DocumentMoniker": "C:\\Users\\marwa\\OneDrive\\Bureau\\WindowsFormsAppGM23\\WindowsFormsAppGM23\\WindowsFormsAppGM23\\FormClient.cs",
+              "RelativeDocumentMoniker": "WindowsFormsAppGM23\\FormClient.cs",
+              "ToolTip": "C:\\Users\\marwa\\OneDrive\\Bureau\\WindowsFormsAppGM23\\WindowsFormsAppGM23\\WindowsFormsAppGM23\\FormClient.cs",
+              "RelativeToolTip": "WindowsFormsAppGM23\\FormClient.cs",
+              "ViewState": "AQIAAI4AAAAAAAAAAAAAAKYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T00:44:18.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormMateriel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\marwa\\OneDrive\\Bureau\\WindowsFormsAppGM23\\WindowsFormsAppGM23\\WindowsFormsAppGM23\\FormMateriel.cs",
+              "RelativeDocumentMoniker": "WindowsFormsAppGM23\\FormMateriel.cs",
+              "ToolTip": "C:\\Users\\marwa\\OneDrive\\Bureau\\WindowsFormsAppGM23\\WindowsFormsAppGM23\\WindowsFormsAppGM23\\FormMateriel.cs [Design]",
+              "RelativeToolTip": "WindowsFormsAppGM23\\FormMateriel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T22:12:23.744Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormClient.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\marwa\\OneDrive\\Bureau\\WindowsFormsAppGM23\\WindowsFormsAppGM23\\WindowsFormsAppGM23\\FormClient.cs",
+              "RelativeDocumentMoniker": "WindowsFormsAppGM23\\FormClient.cs",
+              "ToolTip": "C:\\Users\\marwa\\OneDrive\\Bureau\\WindowsFormsAppGM23\\WindowsFormsAppGM23\\WindowsFormsAppGM23\\FormClient.cs [Design]",
+              "RelativeToolTip": "WindowsFormsAppGM23\\FormClient.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T22:12:19.71Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\marwa\\OneDrive\\Bureau\\WindowsFormsAppGM23\\WindowsFormsAppGM23\\WindowsFormsAppGM23\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsAppGM23\\Form1.cs",
+              "ToolTip": "C:\\Users\\marwa\\OneDrive\\Bureau\\WindowsFormsAppGM23\\WindowsFormsAppGM23\\WindowsFormsAppGM23\\Form1.cs [Design]",
+              "RelativeToolTip": "WindowsFormsAppGM23\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T15:21:04.611Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marwa\\OneDrive\\Bureau\\WindowsFormsAppGM23\\WindowsFormsAppGM23\\WindowsFormsAppGM23\\Program.cs",
+              "RelativeDocumentMoniker": "WindowsFormsAppGM23\\Program.cs",
+              "ToolTip": "C:\\Users\\marwa\\OneDrive\\Bureau\\WindowsFormsAppGM23\\WindowsFormsAppGM23\\WindowsFormsAppGM23\\Program.cs",
+              "RelativeToolTip": "WindowsFormsAppGM23\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAkwBIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T00:34:45.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormMateriel.cs",
+              "DocumentMoniker": "C:\\Users\\marwa\\OneDrive\\Bureau\\WindowsFormsAppGM23\\WindowsFormsAppGM23\\WindowsFormsAppGM23\\FormMateriel.cs",
+              "RelativeDocumentMoniker": "WindowsFormsAppGM23\\FormMateriel.cs",
+              "ToolTip": "C:\\Users\\marwa\\OneDrive\\Bureau\\WindowsFormsAppGM23\\WindowsFormsAppGM23\\WindowsFormsAppGM23\\FormMateriel.cs",
+              "RelativeToolTip": "WindowsFormsAppGM23\\FormMateriel.cs",
+              "ViewState": "AQIAANwAAAAAAAAAAAAhwOkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T00:35:01.723Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
