@@ -1,0 +1,18 @@
+C:\Users\marwa\source\repos\Gestion Biblio\Gestion Biblio\bin\Debug\Gestion Biblio.exe.config
+C:\Users\marwa\source\repos\Gestion Biblio\Gestion Biblio\bin\Debug\Gestion Biblio.exe
+C:\Users\marwa\source\repos\Gestion Biblio\Gestion Biblio\bin\Debug\Gestion Biblio.pdb
+C:\Users\marwa\source\repos\Gestion Biblio\Gestion Biblio\obj\Debug\Gestion Biblio.csproj.AssemblyReference.cache
+C:\Users\marwa\source\repos\Gestion Biblio\Gestion Biblio\obj\Debug\Gestion_Biblio.Form1.resources
+C:\Users\marwa\source\repos\Gestion Biblio\Gestion Biblio\obj\Debug\Gestion_Biblio.Properties.Resources.resources
+C:\Users\marwa\source\repos\Gestion Biblio\Gestion Biblio\obj\Debug\Gestion Biblio.csproj.GenerateResource.cache
+C:\Users\marwa\source\repos\Gestion Biblio\Gestion Biblio\obj\Debug\Gestion Biblio.csproj.CoreCompileInputs.cache
+C:\Users\marwa\source\repos\Gestion Biblio\Gestion Biblio\obj\Debug\Gestion Biblio.exe
+C:\Users\marwa\source\repos\Gestion Biblio\Gestion Biblio\obj\Debug\Gestion Biblio.pdb
+C:\Users\marwa\source\repos\Gestion Biblio\Gestion Biblio\obj\Debug\Gestion_Biblio.Dashboard.resources
+C:\Users\marwa\source\repos\Gestion Biblio\Gestion Biblio\obj\Debug\Gestion_Biblio.AddBooks.resources
+C:\Users\marwa\source\repos\Gestion Biblio\Gestion Biblio\obj\Debug\Gestion_Biblio.ViewBook.resources
+C:\Users\marwa\source\repos\Gestion Biblio\Gestion Biblio\obj\Debug\Gestion_Biblio.AddStudent.resources
+C:\Users\marwa\source\repos\Gestion Biblio\Gestion Biblio\obj\Debug\Gestion_Biblio.ViewStudentInformation.resources
+C:\Users\marwa\source\repos\Gestion Biblio\Gestion Biblio\obj\Debug\Gestion_Biblio.IssueBooks.resources
+C:\Users\marwa\source\repos\Gestion Biblio\Gestion Biblio\obj\Debug\Gestion_Biblio.ReturnBook.resources
+C:\Users\marwa\source\repos\Gestion Biblio\Gestion Biblio\obj\Debug\Gestion_Biblio.CompleteBookDetails.resources
