@@ -16,3 +16,4 @@ C:\Users\marwa\source\repos\Gestion Biblio\Gestion Biblio\obj\Debug\Gestion_Bibl
 C:\Users\marwa\source\repos\Gestion Biblio\Gestion Biblio\obj\Debug\Gestion_Biblio.IssueBooks.resources
 C:\Users\marwa\source\repos\Gestion Biblio\Gestion Biblio\obj\Debug\Gestion_Biblio.ReturnBook.resources
 C:\Users\marwa\source\repos\Gestion Biblio\Gestion Biblio\obj\Debug\Gestion_Biblio.CompleteBookDetails.resources
+C:\Users\marwa\source\repos\Gestion Biblio\Gestion Biblio\obj\Debug\Gestion_Biblio.SignUp.resources

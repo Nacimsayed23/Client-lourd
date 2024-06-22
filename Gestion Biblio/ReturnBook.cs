@@ -81,7 +81,7 @@ namespace Gestion_Biblio
             cmd.ExecuteNonQuery();
             con.Close();
 
-            MessageBox.Show("Rturn succesful", "Success", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            MessageBox.Show("Retour réussi", "Succés", MessageBoxButtons.OK, MessageBoxIcon.Information);
             ReturnBook_Load(this, null);
         }
 

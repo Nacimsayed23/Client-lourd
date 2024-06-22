@@ -80,7 +80,10 @@ namespace Gestion_Biblio
 
         private void btnCancel_Click(object sender, EventArgs e)
         {
-            panel2.Visible=false;
+            if (MessageBox.Show("Êtes-vous sûr de vouloir quitter ?", "Confirmer", MessageBoxButtons.YesNo, MessageBoxIcon.Warning) == DialogResult.Yes)
+            {
+                Application.Exit();
+            }
         }
 
         private void txtBookName_TextChanged(object sender, EventArgs e)
@@ -161,6 +164,11 @@ namespace Gestion_Biblio
                 da.Fill(ds);
 
             }
+        }
+
+        private void panel2_Paint(object sender, PaintEventArgs e)
+        {
+
         }
     }
 }

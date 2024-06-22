@@ -43,7 +43,6 @@
             this.btsIssueBook = new System.Windows.Forms.Button();
             this.dateTimePicker = new System.Windows.Forms.DateTimePicker();
             this.comboBoxBooks = new System.Windows.Forms.ComboBox();
-            this.label10 = new System.Windows.Forms.Label();
             this.txtEmail = new System.Windows.Forms.TextBox();
             this.txtContact = new System.Windows.Forms.TextBox();
             this.txtSemestre = new System.Windows.Forms.TextBox();
@@ -109,7 +108,7 @@
             this.panel2.Controls.Add(this.pictureBox2);
             this.panel2.Location = new System.Drawing.Point(12, 161);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(391, 513);
+            this.panel2.Size = new System.Drawing.Size(391, 532);
             this.panel2.TabIndex = 1;
             // 
             // btnExit
@@ -186,7 +185,6 @@
             this.panel3.Controls.Add(this.btsIssueBook);
             this.panel3.Controls.Add(this.dateTimePicker);
             this.panel3.Controls.Add(this.comboBoxBooks);
-            this.panel3.Controls.Add(this.label10);
             this.panel3.Controls.Add(this.txtEmail);
             this.panel3.Controls.Add(this.txtContact);
             this.panel3.Controls.Add(this.txtSemestre);
@@ -201,7 +199,7 @@
             this.panel3.Controls.Add(this.label3);
             this.panel3.Location = new System.Drawing.Point(419, 161);
             this.panel3.Name = "panel3";
-            this.panel3.Size = new System.Drawing.Size(658, 513);
+            this.panel3.Size = new System.Drawing.Size(658, 532);
             this.panel3.TabIndex = 2;
             // 
             // btsIssueBook
@@ -209,7 +207,7 @@
             this.btsIssueBook.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.btsIssueBook.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btsIssueBook.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btsIssueBook.Location = new System.Drawing.Point(411, 419);
+            this.btsIssueBook.Location = new System.Drawing.Point(411, 428);
             this.btsIssueBook.Name = "btsIssueBook";
             this.btsIssueBook.Size = new System.Drawing.Size(206, 41);
             this.btsIssueBook.TabIndex = 15;
@@ -240,19 +238,6 @@
             this.comboBoxBooks.Name = "comboBoxBooks";
             this.comboBoxBooks.Size = new System.Drawing.Size(395, 34);
             this.comboBoxBooks.TabIndex = 13;
-            // 
-            // label10
-            // 
-            this.label10.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.label10.AutoSize = true;
-            this.label10.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label10.ForeColor = System.Drawing.Color.Red;
-            this.label10.Location = new System.Drawing.Point(3, 488);
-            this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(556, 25);
-            this.label10.TabIndex = 12;
-            this.label10.Text = "Maximum 3 livres peuvent être empruntés par 1 étudiant.";
-            this.label10.Click += new System.EventHandler(this.label10_Click);
             // 
             // txtEmail
             // 
@@ -391,10 +376,11 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
-            this.ClientSize = new System.Drawing.Size(1089, 676);
+            this.ClientSize = new System.Drawing.Size(1089, 695);
             this.Controls.Add(this.panel3);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel1);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "IssueBooks";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "IssueBooks";
@@ -436,7 +422,6 @@
         private System.Windows.Forms.TextBox txtName;
         private System.Windows.Forms.TextBox txtEmail;
         private System.Windows.Forms.TextBox txtContact;
-        private System.Windows.Forms.Label label10;
         private System.Windows.Forms.DateTimePicker dateTimePicker;
         private System.Windows.Forms.ComboBox comboBoxBooks;
         private System.Windows.Forms.Button btsIssueBook;

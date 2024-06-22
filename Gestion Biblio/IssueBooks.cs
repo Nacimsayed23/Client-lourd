@@ -119,7 +119,7 @@ namespace Gestion_Biblio
         {
             if (txtName.Text != "")
             {
-                if(comboBoxBooks.SelectedIndex != -1 && count <= 2)
+                if(comboBoxBooks.SelectedIndex != -1)
                 {
                     string numero = txtEnrollement.Text;
                     string enom = txtName.Text;
